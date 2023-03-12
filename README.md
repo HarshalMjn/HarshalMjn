@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HarshalMjn
-- 👀 I’m interested in Java,Web Development ,DSA,ML,AI
-- 🌱 I’m currently learning Java,DSA
+- 👀 I’m interested in Java,Web Development ,DSA
+- 🌱 I’m currently learning Java,DSA,MERN
 - 💞️ I’m looking to collaborate on learning codeing
-- 
+
 
 <!---
 HarshalMjn/HarshalMjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
