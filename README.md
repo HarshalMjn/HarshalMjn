@@ -15,12 +15,4 @@
 
 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/harshal-mahajan-3b831a201/) and [Twitter](https://twitter.com/Harshal80109914)
 
-> "Coding is not just about building apps, it's about solving problems and turning ideas into reality."
----
 
-
-
-<!---
-HarshalMjn/HarshalMjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
