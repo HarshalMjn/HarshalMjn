@@ -1,6 +1,4 @@
-Sure, here's a potential bio for your GitHub profile:
 
----
 👋 Hi, I'm Harshal Mahajan (@HarshalMjn)!
 
 🚀 Aspiring Full Stack Developer | Java Script Enthusiast | Web Development Enthusiast | DSA Learner
