@@ -20,7 +20,7 @@ Sure, here's a potential bio for your GitHub profile:
 > "Coding is not just about building apps, it's about solving problems and turning ideas into reality."
 ---
 
-Feel free to modify and personalize this bio to reflect your unique personality and aspirations. Good luck on your coding journey!
+
 
 <!---
 HarshalMjn/HarshalMjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
