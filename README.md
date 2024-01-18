@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshal Mahajan</h1>
-<h3 align="center">Aspiring Full Stack Developer | JavaScript Enthusiast | Web Development Enthusiast | DSA Learner</h3>
+<h3 align="center">Full Stack Developer | JavaScript Enthusiast | Web Development Enthusiast | DSA Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalmjn&label=Profile%20views&color=0e75b6&style=flat" alt="harshalmjn" /> </p>
 
